@@ -2,7 +2,7 @@
 onenote_page: repo_bta512
 repo_path: C:\Users\kadek\source\repos\schoolPortfolio\bta512_business_analytics_with_programming
 last_updated: 2026-07-12
-last_synced: 2026-07-31T03:22:43
+last_synced: 2026-08-03T03:25:28
 ---
 
 # repo_bta512
